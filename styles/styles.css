@@ -754,7 +754,7 @@ section {
   }
   .timeline {
     grid-template-columns: 1fr;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
   }
   .portfolios {
     grid-template-columns: 1fr;
@@ -876,7 +876,7 @@ section {
 }
 @media screen and (max-width: 700px) {
   .section {
-    padding: 7rem 3rem;
+    padding: 5rem 3rem;
   }
   .about-stats .progress-bars {
     grid-template-columns: 1fr;
